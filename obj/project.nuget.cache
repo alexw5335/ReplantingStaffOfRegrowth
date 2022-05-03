@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZtMJaF05sPL3dWnS347/tU4HIQ2cSz1ywfGJFv1ZMeAx8cjuAyAFXl3zbIRtI7vg79L0xWFBp9NA4peiwhbfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Family\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ReplantingStaffOfRegrowth\\ReplantingStaffOfRegrowth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Family\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+Makes the Staff of Regrowth replant any blooming herbs that it breaks.
+- Reduces seed drop count by 1 to account for replanting
+- Works on clay pots and planter boxes but not on dirt
